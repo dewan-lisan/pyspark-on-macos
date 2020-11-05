@@ -34,7 +34,7 @@ Didn’t follow only few steps, like JAVA_HOME was already set in my Mac. I was 
    
 5. Type `jupyter notebook` to start the notebook.
 
-6. import pyspark works both in pyspark shell and Jupyter notebook! Done!  
+6. `import pyspark` works both in pyspark shell and Jupyter notebook! Done!  
   
   
 Additional references:  

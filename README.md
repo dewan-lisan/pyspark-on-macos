@@ -31,8 +31,10 @@ Didn’t follow only few steps, like JAVA_HOME was already set in my Mac. I was 
      
     >(base) Lisanuls-MacBook-Air:~ lisan$ which python3  
     >/Users/lisan/miniconda3/bin/python3
+   
+5. Type `jupyter notebook` to start the notebook.
 
-6. After all the setups above, import pyspark works both in pyspark shell and Jupyter notebook! Done!  
+6. import pyspark works both in pyspark shell and Jupyter notebook! Done!  
   
   
 Additional references:  
